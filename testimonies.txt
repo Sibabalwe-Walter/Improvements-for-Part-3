@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testimonials | Thrive Together SA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- Header -->
+<header class="section">
+    <h1>Testimonials</h1>
+</header>
+
+<!-- Navigation -->
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="testimonials.html" class="active">Testimonials</a></li>
+    </ul>
+</nav>
+
+<!-- Testimonials Section -->
+<section class="section testimonials-section">
+    <h2 class="section-title">What Our Supporters Say</h2>
+    <p>We value every partnership and message of encouragement from our community. Here’s what some of our supporters have shared:</p>
+
+    <div class="grid">
+        <div class="box">
+            <p>"Thrive Together SA has changed the way we view community support. Their dedication and passion are inspiring!"</p>
+            <h4>- Nomsa Dlamini</h4>
+        </div>
+
+        <div class="box">
+            <p>"I reached out to Thrive Together for guidance on starting a local initiative, and their advice was invaluable."</p>
+            <h4>- Thabo Mokoena</h4>
+        </div>
+
+        <div class="box">
+            <p>"Professional, caring, and reliable. I couldn’t ask for a better partner for community projects."</p>
+            <h4>- Sarah Nkosi</h4>
+        </div>
+
+        <div class="box">
+            <p>"Amazing organization with a heart for change. They really make a difference in people’s lives."</p>
+            <h4>- Sipho Khumalo</h4>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>
